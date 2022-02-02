@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/usingReactProps/static/css/main.599afa2c.css",
-    "main.js": "/usingReactProps/static/js/main.e5c97b13.js",
+    "main.css": "/usingReactProps/static/css/main.130a1686.css",
+    "main.js": "/usingReactProps/static/js/main.01a97e04.js",
     "static/media/indian1.png": "/usingReactProps/static/media/indian1.26b410c9c3989fd40cf1.png",
     "static/media/african1.png": "/usingReactProps/static/media/african1.03e66e3b9d0ebed75864.png",
     "static/media/dress2.png": "/usingReactProps/static/media/dress2.e4081e2bcf04639ef874.png",
     "static/media/suit1.png": "/usingReactProps/static/media/suit1.c04580465aa4e90e62ad.png",
     "static/media/dress1.png": "/usingReactProps/static/media/dress1.f79c838ae25fe12cb07b.png",
     "index.html": "/usingReactProps/index.html",
-    "main.599afa2c.css.map": "/usingReactProps/static/css/main.599afa2c.css.map",
-    "main.e5c97b13.js.map": "/usingReactProps/static/js/main.e5c97b13.js.map"
+    "main.130a1686.css.map": "/usingReactProps/static/css/main.130a1686.css.map",
+    "main.01a97e04.js.map": "/usingReactProps/static/js/main.01a97e04.js.map"
   },
   "entrypoints": [
-    "static/css/main.599afa2c.css",
-    "static/js/main.e5c97b13.js"
+    "static/css/main.130a1686.css",
+    "static/js/main.01a97e04.js"
   ]
 }
