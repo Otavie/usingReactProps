@@ -1,23 +1,42 @@
-import logo from './logo.svg';
-import './App.css';
+import Product from './components/Product';
+import dress1 from './components/images/dress1.png'
+import dress2 from './components/images/dress2.png'
+import african1 from './components/images/african1.png'
+import suit1 from './components/images/suit1.png'
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className='app'>
+      <h1>O's Wears</h1>
+      <div className="productRow">
+        <Product 
+          image={dress1}
+          name="Google Pixel" 
+          desc="Google Phone" 
+          price="99.99" 
+        />
+
+        <Product 
+          image={dress2}
+          name="Google Pixel" 
+          desc="Google Phone" 
+          price="99.99" 
+        />
+
+        <Product 
+          image={african1}
+          name="Google Pixel" 
+          desc="Google Phone" 
+          price="99.99" 
+        />
+
+        <Product 
+          image={suit1}
+          name="Google Pixel" 
+          desc="Google Phone" 
+          price="99.99" 
+        />
+      </div>
     </div>
   );
 }
